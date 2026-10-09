@@ -1,5 +1,4 @@
 <!-- readme-sync:repo:start -->
-
 # skillbox
 
 Self\-hosted, versioned skills library for AI agents\. MCP, scoped clients, and optional Jev recommendations\.
@@ -12,6 +11,7 @@ Self\-hosted, versioned skills library for AI agents\. MCP, scoped clients, and 
   <a href="https://kitze.io/?ref=kitze%2Fskillbox">kitze.io</a> · <a href="https://x.com/thekitze?ref=kitze%2Fskillbox">X</a> · <a href="https://youtube.com/kitze?ref=kitze%2Fskillbox">YouTube</a>
 </p>
 <br clear="all">
+
 
 <h3>More projects by Kitze</h3>
 <table>
